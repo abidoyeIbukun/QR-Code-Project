@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 'Outfit', sans-serif;
+    background-color: darkgray;
+}
+
+.container{
+    width: 90%;
+    max-width: 285px;
+    margin: 90px auto; 
+    background-color: white;
+    border-radius: 15px;
+}
+
+.image{
+    width: 90%;  
+    margin: 15px;
+    border-radius: 14px;
+}
+
+.text{
+    margin: 0 auto;
+    text-align: center;
+    width: 79%;
+}
+
+.title{
+    font-size: 1.3rem;
+    color: blue;
+    font-weight: 400;
+    margin-bottom: 13px;
+    margin-top:3px;
+}
+
+.paragraph{
+    font-size: 15px;
+    padding-bottom: 40px;
+    color: hsl(220, 15%, 55%);
+} 
